@@ -1,0 +1,116 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image:url(port.jpg);
+    font-size: larger;
+    
+}
+a{
+    font-size: 20px;
+}
+span{
+    font-size: 50px;
+}
+ul{
+    font-size: 30px;
+}
+
+div{ 
+    text-align: center;
+    width:100%;
+
+    
+}
+nav{
+    background-image:url(undraw.png);
+    height: 620px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #d8d8d8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+header, section, footer {
+    height:620px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #d8d8d8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+section{
+    height:400px;
+}
+ul li{
+    background-color: coral;
+    border-radius: 8px;
+    margin:10px;
+    padding: 10px;
+}
+
+p{
+    color: #333;
+    font-size: 30px;
+}
+
+header h1, nav ul, section h2, footer {
+    color: #333;
+}
+h1,h2 ,h3 {
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #555;
+}
+
+section img {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+section h3 {
+    color: #555;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: #fff;
+}
+
+q{
+    color:#000000;
+    font-style: italic;
+
+}
+table,th,td,tr{
+    padding:7px;
+    border: 1px solid black;
+    border-style: double;
+    margin: 30px;
+}
+table{
+    width: 90%;
+}
+th{
+    width: 60%;
+}
